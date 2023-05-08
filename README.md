@@ -1,2 +1,2 @@
-##CALCULATOR
-Non-graphic calculator
+# CALCULATOR
+### Non-graphic calculator
