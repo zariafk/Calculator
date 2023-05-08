@@ -18,7 +18,7 @@ public class Calculator {
             print("Enter another number: ");
             b = Float.parseFloat(keyboard.nextLine());
 
-            print("Would you like to a) add    b) subtract     c) multiply     d) divide?");
+            print("a) add    b) subtract     c) multiply     d) divide?");
             c = (keyboard.nextLine());
 
             try {
