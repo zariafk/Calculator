@@ -1,2 +1,2 @@
 # CALCULATOR
-### Non-graphic calculator
+### Graphic calculator (credits to Bro Code)
